@@ -11,3 +11,6 @@ http://automationpractice.com
 
 # Required 
 Intellij IDEA(you can use any ide)<br>
+
+# Language
+JAVA
